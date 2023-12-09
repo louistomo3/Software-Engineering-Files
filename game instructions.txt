@@ -4,17 +4,15 @@ Fanatasy Football Draft Game!
 Instructions:
 -------------
 
-This is a two player game, where each user takes turns to make their player selections from a main list of Premier League players. Once a player has been 
-selected, the other user is not allowed to select the same player. 
+This is a two player game, where each user takes turns to make their player selections from a main list of Premier League players. Once a player has been selected, the other user is not allowed to select the same player. 
 
-You can choose extra Premier League players to add to this particular game from a reserve list. These players will not be in the main list of players next 
-game, unless chosen again.
+You can choose extra Premier League players to add to this particular game from a reserve list. These players will not be in the main list of players next game, unless chosen again.
 
-Each user will have a set budget (minimum £60 million and maximum £75 million) and formation for their team. For every £1 million that a user goes over 
-budget, 1 penalty point will be added to their overall team ranking.
+Each user will have a set budget (minimum £60 million and maximum £75 million) and formation for their team. For every £1 million that a user goes over budget, 1 penalty point will be added to their overall team ranking.
 
-Each player is assigned a current Premier League ranking for their position and the user with the lowest combined team ranking from players (highest ranked team) and penalty points is the winner! You will not be able to see the player rankings throughout the game, you will only see your combined team ranking 
-at the end of the game.
+Each player is assigned a current Premier League ranking for their position and the user with the lowest combined team ranking from players (highest ranked team) and penalty points is the winner! You will not be able to see the player rankings throughout the game, you will only see your combined team ranking at the end of the game.
+
+Please note that player names are case-sensitive so users should enter them exactly as they are seen on screen.
 
 
 Game Settings:
